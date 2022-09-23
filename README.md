@@ -1,6 +1,7 @@
 # Java Selfstudy
 ## System Info
 Editor: Visual Studio Code
+
 OS: Ubuntu 20.04.5 LTS
 
 ## Installation, compilation and running JAVA
@@ -18,3 +19,8 @@ Running (run the bytecode file that has the _.class_ extension. Don't have to ty
 ```terminal
 java <filename>
 ```
+
+## Java Writing Convention
+1. A Java `class` must be save in a file that has the same name as your `class`. 
+2. `class` name must not start with a number. 
+3. `class` name must start with a capitalised letter.
